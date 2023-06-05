@@ -1,6 +1,6 @@
 # Hey, I'm Layered!
 
-Hey! I'm a Python developer and the owner of [BagelLand](https://bagel.land), a budget and free server host!
+Hey! I'm a Python developer and the owner of [Owehost](https://owehost.com), a budget and free server host!
 
 
 
