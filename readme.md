@@ -6,7 +6,6 @@ Hey! I'm a Python developer and the owner of [Owehost](https://owehost.com), a b
 
 
 
-![rifat's github stats](https://github-readme-stats.vercel.app/api?username=layeredplayz&show_icons=true)
 
 
 ### Languages and Tools
