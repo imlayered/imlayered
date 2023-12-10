@@ -1,6 +1,8 @@
 # Hey, I'm Layered!
 
-Hey! I'm a System Admin and CEO at [Owehost](https://owehost.com), a budget and free server host!
+Hey! I'm a System Admin and CEO at Owehost.
+
+I mostly work on my company but I'll also sometimes work on open source projects that I like
 
 
 
