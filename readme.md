@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Layered!
 
 ## 🚀 About Me
-I'm the proud owner of **Owehost** (a cloud computing company) and **Owenet** (a forum platform). Passionate about technology, security, business, and innovation, I dedicate myself to pushing the boundaries of digital solutions.
+I'm the proud owner of **Owehost** (a cloud computing company) and **Owenet** (a forum platform). Passionate about technology and innovation, I dedicate myself to pushing the boundaries of digital solutions.
 
 ## 🌐 My Companies
-- **Owehost** 🌩️ - A cloud service provider, delivering robust and scalable cloud solutions.
-- **Owenet** 💬 - A  forum community, fostering engaging discussions and connections about tech 
+- [**Owehost**](https://owehost.com) 🌩️ - A cloud service provider, delivering robust and scalable cloud solutions. (Employee)
+- [**Owenet**](https://owenet.com) 💬 - A  forum community, fostering engaging discussions and connections about tech (CEO & Founder)
 
 ## 🔄 My Commitment
 I strive to release a new project or update an existing one at least once every 2 days! 📆
