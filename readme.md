@@ -1,29 +1,27 @@
-# Hey, I'm Layered!
+# 👋 Hi, I'm Layered!
 
-Hey! I'm a System Admin and CEO at Owehost.
+## 🚀 About Me
+I'm the proud owner of **Owehost** (a cloud computing company) and **Owenet** (a forum platform). Passionate about technology, security, business, and innovation, I dedicate myself to pushing the boundaries of digital solutions.
 
-I mostly work on my company but I'll also sometimes work on open source projects that I like
+## 🌐 My Companies
+- **Owehost** 🌩️ - A cloud service provider, delivering robust and scalable cloud solutions.
+- **Owenet** 💬 - A  forum community, fostering engaging discussions and connections about tech 
+
+## 🔄 My Commitment
+I strive to release a new project or update an existing one at least once every 2 days! 📆
+
+## 🛠️ Skills and Services
+- **Software Development** 💻 - Building and maintaining software and web solutions.
+- **Cloud Computing** ☁️ - Providing scalable and efficient cloud services.
+- **Graphics Design** 🎨 - Creating stunning visuals using Adobe products.
+- **Software Security & Cybersecurity** 🔒 - Ensuring the highest level of security.
+
+## 📫 Get in Touch!
+Feel free to reach out to me for collaborations, questions, or just a chat about tech!
+
+- Email: [layered@owehost.com](mailto:layered@owehost.com)
+- Twitter: [@imlayered](https://twitter.com/imlayered)
+- Twitter (Business): [@owehost](https://twitter.com/owehost)
+---
 
 
-
-
-
-
-
-### Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://i.bagel.land/logo.png"></code>
-
-
-
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=layeredplayz.visitor-badge)
- 
