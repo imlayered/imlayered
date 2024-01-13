@@ -21,7 +21,6 @@ Feel free to reach out to me for collaborations, questions, or just a chat about
 
 - Email: [layered@owehost.com](mailto:layered@owehost.com)
 - Twitter: [@imlayered](https://twitter.com/imlayered)
-- Twitter (Business): [@owehost](https://twitter.com/owehost)
----
+- ---
 
 
