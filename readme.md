@@ -16,7 +16,8 @@ I do stuff on the internet.
 ## 📫 Get in Touch!
 Feel free to reach out to me for collaborations, questions, or just a chat about tech!
 
-- Email: [layered@owehost.com](mailto:layered@owehost.com)
+- Email (Work): [layered@owehost.com](mailto:layered@owehost.com)
+- Discord: @layered (ID -- 683416430510866482)
 - Twitter: [@imlayered](https://twitter.com/imlayered)
 - ---
 
