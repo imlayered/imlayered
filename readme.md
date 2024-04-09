@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Layered!
+# 👋 Hi, I'm Auri
+(aka Layered)
 
 ## 🚀 About Me
 I do stuff on the internet.
@@ -16,8 +17,8 @@ I do stuff on the internet.
 ## 📫 Get in Touch!
 Feel free to reach out to me for collaborations, questions, or just a chat about tech!
 
-- Email (Work): [layered@owehost.com](mailto:layered@owehost.com)
-- Discord: @layered (ID -- 683416430510866482)
+- Email (Work): [auri@owehost.com](mailto:auri@owehost.com)
+- Discord: @layered
 - Twitter: [@imlayered](https://twitter.com/imlayered)
 - ---
 
