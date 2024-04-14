@@ -19,9 +19,8 @@ I do stuff on the internet.
 ## 📫 Get in Touch!
 Feel free to reach out to me for collaborations, questions, or just a chat about tech!
 
-- Email (Work): [auri@owehost.com](mailto:auri@owehost.com)
+- Email (Work): [me@auri.lol](mailto:me@auri.lol)
 - Discord: @layered
-- Twitter: [@imlayered](https://twitter.com/imlayered)
 - ---
 
 
