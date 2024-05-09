@@ -10,7 +10,6 @@ Check out my portfolio [here](https://auri.lol)
 ## Need to contact me?
 
 - Email (Me): [me@auri.lol](mailto:me@auri.lol)
-- Email (Work): [auri@owehost.com](mailto:auri@owehost.com)
 - Discord: @layered
 - ---
 
