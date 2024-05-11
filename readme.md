@@ -4,6 +4,7 @@
 Check out my portfolio [here](https://auri.lol)
 
 ## What do I work on/where do I work?
+- [**Owehost**](https://owehost.com) - Hosting company (Business management, 2021-Current)
 -  [**Plasma Services** (Discord invite)](https://discord.gg/BMTCAU2vza) - Private code marketplace (Co-owner 2023-Current)
 > I also work at a IT management company for SMB but they will not be listed for privacy reasons (Management (Cloud Systems) - 2022-Current)
 
