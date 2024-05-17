@@ -2,3 +2,4 @@ Layeredy is a uptime monitoring software built with SMBs in mind, with very usab
 
 Progress:
 May 16, 2024 - Website has been started, frameworks are in development as well
+May 17, 2024 - Getting the one-time checking site ready, should be ready for production by May 20th.
