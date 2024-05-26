@@ -1,10 +1,11 @@
+
 # 👋 Hi, I'm Auri (aka Layered)
 
 ## About Me
 Check out my portfolio [here](https://auri.lol)
 
-## What do I work on/where do I work?
-I work on Layeredy, a uptime monitoring software built for small businesses and hosting providers, with low-cost checks and a beautiful UI
+## My Stats 
+![stats](https://github-readme-stats.vercel.app/api?username=imlayered&show_icons=true)
 
 ## Need to contact me?
 
@@ -12,5 +13,4 @@ I work on Layeredy, a uptime monitoring software built for small businesses and 
 - Discord: @layered
 - ---
 
-![stats](https://github-readme-stats.vercel.app/api?username=imlayered&show_icons=true)
-
+![auri](https://cdn.auri.lol/auridotlol-rounded.png)
