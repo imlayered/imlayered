@@ -4,4 +4,4 @@
 ## 
 
 I'm the primary owner at Encoded, a marketplace and forums site
-![encoded](https://cdn.encoded.sh/logo-light-small.png)
+[![encoded](https://cdn.encoded.sh/logo-light-small.png)](https://encoded.sh)
