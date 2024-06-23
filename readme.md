@@ -3,5 +3,5 @@
 **See my portfolio [here](https://auri.lol)**
 ## 
 
-I'm the primary owner at Encoded, a marketplace and forums site
-[![encoded](https://cdn.encoded.sh/logo-light-small.png)](https://encoded.sh)
+I'm the founder of Layeredy, the company behind [Encoded](https://encoded.sh) and [Owehost](https://owehost.com)
+[![layeredy](https://r2.layeredy.com/wordmark.png)](https://layeredy.com)
