@@ -1,5 +1,5 @@
 
-# 👋 Hey, I'm Auri (Ariana)
+# 👋 Hey, I'm Ariana!
 **See my portfolio [here](https://auri.lol)**
 ## 
 
