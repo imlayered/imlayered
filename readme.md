@@ -1,5 +1,5 @@
 
-# 👋 Hey, I'm Ariana!
+# 👋 Hey, I'm Auri!
 **See my portfolio [here](https://auri.lol)**
 ## 
 
