@@ -1,1 +1,1 @@
-[![layeredy](https://github.com/user-attachments/assets/5918826b-e26b-4145-8515-0256a05e4188)](https://auri.lol)
+[![auri](https://github.com/user-attachments/assets/82c9440b-432b-4015-a253-04f00964d3e3)](https://auri.lol)
