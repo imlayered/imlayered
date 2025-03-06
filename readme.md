@@ -1,4 +1,5 @@
 # About me: 
-[![auri](https://github.com/user-attachments/assets/82c9440b-432b-4015-a253-04f00964d3e3)](https://auri.lol)
+Hey, I'm Auri. I'm a software developer and security engineer working at [Layeredy Software](https://layeredy.com)
+
 
 [![layeredy](https://github.com/user-attachments/assets/c0a42082-7800-4f02-9377-f81c6b453c05)](https://layeredy.com)
